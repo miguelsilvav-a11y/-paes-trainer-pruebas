@@ -1,5 +1,5 @@
 (()=>{'use strict';
-const CURRENT='2.6.0', KEY='paes-last-version-check', INTERVAL=12*60*60*1000;
+const CURRENT='2.6.1', KEY='paes-last-version-check', INTERVAL=12*60*60*1000;
 const button=document.getElementById('paes-check-update'), status=document.getElementById('paes-update-status');
 let busy=false, available=null;
 function say(message){if(status)status.textContent=message;}

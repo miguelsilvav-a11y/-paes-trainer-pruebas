@@ -1,0 +1,8 @@
+V2.6.1 — Correcciones de pruebas en iPhone
+- Respuesta bloqueada al primer intento en todas las materias, incluida modalidad examen.
+- Cronómetro de segundos y presentación uniforme en materias.
+- Historial y avance general: incluye M2 y L2 y totales reales del banco.
+- Respaldo integral incluye historial y preguntas vistas de M2 y L2.
+- Se preservan las claves de almacenamiento existentes.
+- Se actualiza la caché PWA para evitar mezclar scripts antiguos.
+- Sin cambios en la versión de producción Netlify.
