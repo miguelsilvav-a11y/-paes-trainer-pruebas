@@ -1,0 +1,7 @@
+V2.5.3 - Candidato para pruebas locales (NO PUBLICADO)
+- Se limita comprobación automática de version.json a una vez cada 12 horas por navegador.
+- Se elimina la actualización forzada del service worker en cada visita.
+- Recursos estáticos: caché primero, red solo cuando sea necesario; páginas: red primero con respaldo offline.
+- No se modifica el formato ni las claves del historial local.
+- Pendiente: unificar motor M1, ampliar banco con revisión pedagógica, probar iPhone y confirmar origen de solicitudes fallidas.
+- Netlify: cada publicación sigue costando 15 créditos según desglose del usuario; estas mejoras no reducen el costo fijo de deploy.

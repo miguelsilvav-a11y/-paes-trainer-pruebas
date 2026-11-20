@@ -1,0 +1,8 @@
+PAES Trainer Chile V1.2
+- Cronómetro proporcional: 140 minutos para 65 preguntas.
+- Modo examen: cuenta regresiva, entrega al agotarse el tiempo, posibilidad de omitir y cambiar respuestas antes de entregar.
+- Modo práctica: cronómetro informativo, corrección inmediata.
+- Opciones 5, 10, 20, 30 y 40 preguntas. 65 pendiente de ampliar banco.
+- Indicador de versión visible.
+- Conserva claves de historial de versiones anteriores.
+- No equivale a puntaje oficial DEMRE.

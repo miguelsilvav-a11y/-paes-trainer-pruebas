@@ -1,0 +1,1 @@
+V2.5.1: se elimina la sección duplicada Actualizaciones y ajustes y se corrigen los IDs repetidos. Se conserva el banco de preguntas y las claves de historial. Se renueva caché PWA.

@@ -1,0 +1,5 @@
+PAES Trainer Chile v2.6.0 - cierre técnico local
+Comprobaciones: sintaxis JS, enlaces internos, carga navegador, integridad ZIP.
+No se ha verificado instalación ni actualización en iPhone real, ni respuestas pedagógicas una a una.
+Publicar únicamente después de respaldar historial y probar en dispositivo.
+Netlify: cada deploy de producción costaba 15 créditos según captura; esta preparación local no realiza deploy.

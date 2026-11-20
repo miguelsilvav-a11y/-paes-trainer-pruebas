@@ -1,0 +1,1 @@
+V2.2: misma interfaz compacta para Lectora, Ciencias e Historia; 10 preguntas originales nuevas por cada materia (200 M1 + 30 Lectora + 30 Ciencias + 30 Historia = 290); respaldo general e importación combinada de historial para trasladar datos entre Safari y app instalada; claves de almacenamiento conservadas. No se incluye sincronización en nube ni calibración oficial.

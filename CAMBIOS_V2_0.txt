@@ -1,0 +1,1 @@
+V2.0: Portada única con 4 materias. Historial unificado y filtrable. Indicadores y cobertura por materia. Matemática trasladada a matematica.html sin cambiar claves de almacenamiento. Materias piloto conservadas. Cache PWA actualizada.

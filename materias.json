@@ -1,0 +1,737 @@
+{
+  "lectura": {
+    "title": "Competencia Lectora",
+    "items": [
+      [
+        "El municipio informó que la biblioteca abrirá también los domingos. La medida busca facilitar el acceso de quienes trabajan durante la semana.",
+        "¿Cuál es el propósito principal de la medida?",
+        [
+          "Reducir la cantidad de préstamos",
+          "Facilitar el acceso a la biblioteca",
+          "Reemplazar los libros impresos",
+          "Cerrar la biblioteca entre semana"
+        ],
+        1,
+        "El texto declara que la medida busca facilitar el acceso de personas que trabajan."
+      ],
+      [
+        "Durante décadas se consideró que los humedales eran terrenos improductivos. Hoy se reconoce su papel en la regulación hídrica y la biodiversidad.",
+        "¿Qué contraste organiza el fragmento?",
+        [
+          "Una discusión sobre costos",
+          "Una comparación entre dos especies",
+          "Una valoración antigua frente a otra actual",
+          "Una secuencia de instrucciones"
+        ],
+        2,
+        "El texto contrapone la consideración pasada de los humedales con el reconocimiento actual."
+      ],
+      [
+        "La autora señala: “No basta con instalar ciclovías; también hay que educar en convivencia vial”.",
+        "¿Qué sostiene la autora?",
+        [
+          "La infraestructura por sí sola es insuficiente",
+          "Las ciclovías deben eliminarse",
+          "La educación reemplaza toda infraestructura",
+          "Solo los ciclistas necesitan formación"
+        ],
+        0,
+        "La expresión «no basta» exige complementar infraestructura y educación."
+      ],
+      [
+        "El informe registra una disminución de la lluvia en tres estaciones, pero advierte que los datos no permiten concluir una tendencia nacional.",
+        "¿Qué precaución expresa el informe?",
+        [
+          "Que no se registró lluvia",
+          "Que todas las regiones muestran la misma tendencia",
+          "Que las estaciones fueron cerradas",
+          "Que los datos son insuficientes para generalizar"
+        ],
+        3,
+        "El informe limita el alcance de sus resultados a las estaciones observadas."
+      ],
+      [
+        "Una reseña afirma: “Aunque el comienzo es lento, el relato gana fuerza gracias a sus personajes”.",
+        "¿Cuál es la evaluación global del reseñista?",
+        [
+          "Totalmente negativa",
+          "Matizada, con un aspecto favorable",
+          "Exclusivamente descriptiva",
+          "Indiferente"
+        ],
+        1,
+        "Se presenta una crítica inicial y luego una valoración positiva."
+      ],
+      [
+        "El afiche dice: “Trae tu botella reutilizable. Cada recarga evita un envase desechable”.",
+        "¿Qué acción busca promover el afiche?",
+        [
+          "Consumir más agua embotellada",
+          "Comprar envases pequeños",
+          "Usar recipientes reutilizables",
+          "Evitar beber agua"
+        ],
+        2,
+        "El llamado directo es traer una botella reutilizable."
+      ],
+      [
+        "El investigador observó que los árboles de dos plazas crecían a distinto ritmo. Sin embargo, no midió la calidad del suelo.",
+        "¿Qué dato falta para interpretar mejor la diferencia?",
+        [
+          "La composición del suelo",
+          "El nombre de las plazas",
+          "El color de los bancos",
+          "El horario del transporte"
+        ],
+        0,
+        "La calidad del suelo es una variable potencialmente relevante no medida."
+      ],
+      [
+        "El artículo presenta testimonios de vecinos y luego estadísticas municipales sobre el mismo problema.",
+        "¿Qué función cumple la inclusión de estadísticas?",
+        [
+          "Sustituir por completo los testimonios",
+          "Cambiar de tema",
+          "Introducir personajes ficticios",
+          "Complementar los testimonios con datos"
+        ],
+        3,
+        "Los datos cuantitativos amplían el sustento del problema descrito."
+      ],
+      [
+        "Un ensayo señala que el uso de transporte público reduce emisiones solo si sustituye viajes que antes se hacían en automóvil.",
+        "¿Qué condición considera necesaria el autor?",
+        [
+          "Que aumenten los viajes totales",
+          "Que los pasajeros abandonen el automóvil",
+          "Que se eliminen las ciclovías",
+          "Que los buses circulen vacíos"
+        ],
+        1,
+        "El beneficio descrito depende de reemplazar viajes en automóvil."
+      ],
+      [
+        "Una crónica describe primero el cierre de una fábrica, luego las protestas vecinales y finalmente la reapertura de un centro cultural en el mismo edificio.",
+        "¿Qué organización predomina?",
+        [
+          "Orden cronológico",
+          "Comparación de personajes",
+          "Enumeración sin orden",
+          "Problema matemático"
+        ],
+        0,
+        "Los acontecimientos aparecen en secuencia temporal."
+      ],
+      [
+        "«Los resultados son alentadores, aunque todavía no permiten establecer una relación causal».",
+        "¿Cuál es la actitud del emisor?",
+        [
+          "Certeza absoluta",
+          "Rechazo de los datos",
+          "Optimismo cauteloso",
+          "Indiferencia"
+        ],
+        2,
+        "Reconoce resultados favorables pero advierte una limitación causal."
+      ],
+      [
+        "En una columna, la autora afirma que plantar árboles ayuda a enfrentar el calor urbano. Luego cita mediciones de temperatura en calles con y sin sombra.",
+        "¿Qué función cumplen las mediciones?",
+        [
+          "Introducir un tema distinto",
+          "Respaldar el argumento con evidencia",
+          "Desmentir la idea central",
+          "Describir a la autora"
+        ],
+        1,
+        "Los datos aportan respaldo empírico a la afirmación."
+      ],
+      [
+        "«El tren llegó puntual; sin embargo, la mayoría de los pasajeros perdió la conexión por una falla en la señalización».",
+        "¿Qué relación expresa «sin embargo»?",
+        [
+          "Causa",
+          "Finalidad",
+          "Contraste",
+          "Consecuencia inevitable"
+        ],
+        2,
+        "Contrapone la puntualidad con el problema experimentado."
+      ],
+      [
+        "Un aviso dice: «Inscríbete hasta el viernes. Los cupos se asignarán por orden de recepción».",
+        "¿Qué puede inferirse?",
+        [
+          "Inscribirse antes puede aumentar la posibilidad de obtener cupo",
+          "Todos recibirán cupo",
+          "La inscripción empieza el viernes",
+          "Se sortearán los cupos"
+        ],
+        0,
+        "La asignación por orden favorece las inscripciones tempranas."
+      ],
+      [
+        "El reportaje incorpora la voz de una vecina afectada por inundaciones y la de una especialista en planificación urbana.",
+        "¿Qué aporta la combinación de fuentes?",
+        [
+          "Dos perspectivas complementarias",
+          "Una única opinión oficial",
+          "Una contradicción necesaria",
+          "Una narración ficticia"
+        ],
+        0,
+        "Se combina experiencia directa con conocimiento especializado."
+      ],
+      [
+        "«La propuesta no elimina el problema, pero disminuye sus efectos más graves».",
+        "¿Cuál es la idea principal?",
+        [
+          "La propuesta es inútil",
+          "El problema desaparece",
+          "La propuesta atenúa consecuencias",
+          "Los efectos aumentan"
+        ],
+        2,
+        "El texto diferencia solución completa de mitigación."
+      ],
+      [
+        "Una nota explica qué es la energía mareomotriz, cómo se obtiene y cuáles son sus desafíos técnicos.",
+        "¿Cuál es su propósito predominante?",
+        [
+          "Entretener mediante ficción",
+          "Informar y explicar",
+          "Ordenar una compra",
+          "Narrar una biografía"
+        ],
+        1,
+        "Define y desarrolla un tema con intención explicativa."
+      ],
+      [
+        "«La exposición reúne fotografías tomadas en distintos barrios durante veinte años».",
+        "¿Qué información NO entrega el fragmento?",
+        [
+          "El tipo de obras",
+          "La extensión temporal",
+          "La procedencia barrial",
+          "El precio de la entrada"
+        ],
+        3,
+        "No se menciona el valor de ingreso."
+      ],
+      [
+        "El autor escribe: «La ciudad crece hacia la periferia, mientras el transporte sigue concentrado en el centro».",
+        "¿Qué tensión destaca?",
+        [
+          "La coordinación perfecta",
+          "El desajuste entre expansión urbana y transporte",
+          "La disminución de la población",
+          "La desaparición del centro"
+        ],
+        1,
+        "Contrasta el crecimiento periférico con una red centrada en otra zona."
+      ],
+      [
+        "Un artículo concluye que se requieren más investigaciones porque la muestra del estudio fue pequeña.",
+        "¿Qué justifica la conclusión?",
+        [
+          "Una limitación metodológica",
+          "Una preferencia estética",
+          "Un cambio de tema",
+          "Una cita literaria"
+        ],
+        0,
+        "Una muestra pequeña limita la generalización."
+      ]
+    ]
+  },
+  "ciencias": {
+    "title": "Competencia Científica — piloto transversal",
+    "items": [
+      [
+        "Un grupo de estudiantes cultiva plantas idénticas con distinta cantidad de luz, manteniendo igual agua y suelo.",
+        "¿Cuál es la variable independiente?",
+        [
+          "Cantidad de agua",
+          "Cantidad de luz",
+          "Tipo de suelo",
+          "Altura final"
+        ],
+        1,
+        "La variable manipulada es la cantidad de luz."
+      ],
+      [
+        "Un termómetro registra 18 °C al inicio y 23 °C al final de una experiencia.",
+        "¿Cuál fue la variación de temperatura?",
+        [
+          "3 °C",
+          "4 °C",
+          "5 °C",
+          "41 °C"
+        ],
+        2,
+        "23−18=5 °C."
+      ],
+      [
+        "Al mezclar sal con agua, los cristales dejan de observarse, pero la mezcla conserva su masa total.",
+        "¿Qué principio es consistente con la observación?",
+        [
+          "Conservación de la masa",
+          "Desaparición de la materia",
+          "Creación de masa",
+          "Transformación de sal en energía"
+        ],
+        0,
+        "La masa total se conserva al disolver la sal."
+      ],
+      [
+        "Una pelota se mueve en línea recta con velocidad constante sobre una superficie ideal sin roce.",
+        "¿Qué fuerza neta actúa sobre ella?",
+        [
+          "Una fuerza creciente",
+          "Una fuerza opuesta al movimiento",
+          "Una fuerza hacia arriba",
+          "Fuerza neta cero"
+        ],
+        3,
+        "Por la primera ley de Newton, velocidad constante implica fuerza neta cero."
+      ],
+      [
+        "Una población de insectos aumenta después de una temporada lluviosa, pero no se midió la disponibilidad de alimento.",
+        "¿Cuál es una limitación de la explicación?",
+        [
+          "No se conoce el color de los insectos",
+          "No se controló una variable relevante",
+          "La lluvia no puede medirse",
+          "No existen poblaciones de insectos"
+        ],
+        1,
+        "La disponibilidad de alimento podría influir en el crecimiento."
+      ],
+      [
+        "Una solución tiene pH 3 y otra tiene pH 7.",
+        "¿Cuál de ellas es más ácida?",
+        [
+          "La de pH 7",
+          "Ambas son neutras",
+          "La de pH 3",
+          "Ambas son básicas"
+        ],
+        2,
+        "En la escala de pH, valores menores que 7 indican acidez."
+      ],
+      [
+        "En una cadena alimentaria, las plantas son consumidas por herbívoros.",
+        "¿Qué rol cumplen las plantas?",
+        [
+          "Productores",
+          "Consumidores secundarios",
+          "Descomponedores",
+          "Depredadores"
+        ],
+        0,
+        "Las plantas producen materia orgánica por fotosíntesis."
+      ],
+      [
+        "Un circuito simple tiene una pila, cables y una ampolleta. Al abrir el interruptor, la ampolleta se apaga.",
+        "¿Cuál es la explicación?",
+        [
+          "Aumenta el voltaje",
+          "Se crea una nueva fuente",
+          "La ampolleta pierde masa",
+          "Se interrumpe el camino de la corriente"
+        ],
+        3,
+        "Al abrir el circuito no hay trayectoria cerrada para la corriente."
+      ],
+      [
+        "En un experimento, dos grupos de semillas reciben igual agua y luz, pero uno se mantiene a 15 °C y otro a 25 °C.",
+        "¿Qué variable se manipula?",
+        [
+          "La cantidad de agua",
+          "La temperatura",
+          "La especie de semilla",
+          "La cantidad de luz"
+        ],
+        1,
+        "Solo se modifica la temperatura."
+      ],
+      [
+        "Una célula vegetal se coloca en una solución muy concentrada en sales y pierde agua.",
+        "¿Qué proceso explica la pérdida de agua?",
+        [
+          "Fotosíntesis",
+          "Osmosis",
+          "Mitosis",
+          "Fermentación"
+        ],
+        1,
+        "El agua se desplaza por ósmosis hacia el medio con menor potencial hídrico."
+      ],
+      [
+        "Un objeto de 2 kg experimenta una fuerza neta de 10 N.",
+        "¿Cuál es su aceleración?",
+        [
+          "20 m/s²",
+          "12 m/s²",
+          "5 m/s²",
+          "0,2 m/s²"
+        ],
+        2,
+        "Por F=ma, a=10/2=5 m/s²."
+      ],
+      [
+        "Un estudiante conecta dos resistencias idénticas en serie a una batería ideal.",
+        "¿Cómo cambia la resistencia total respecto de una sola resistencia?",
+        [
+          "Se reduce a la mitad",
+          "Se duplica",
+          "No cambia",
+          "Se hace cero"
+        ],
+        1,
+        "En serie las resistencias se suman."
+      ],
+      [
+        "Una disolución contiene 10 g de soluto en 100 g de disolución.",
+        "¿Cuál es su concentración porcentual en masa?",
+        [
+          "1%",
+          "10%",
+          "90%",
+          "110%"
+        ],
+        1,
+        "10/100×100=10% m/m."
+      ],
+      [
+        "Se observa que una planta produce burbujas de oxígeno bajo luz intensa, pero menos burbujas en oscuridad.",
+        "¿Qué proceso se relaciona directamente con la producción de oxígeno?",
+        [
+          "Respiración anaerobia",
+          "Fotosíntesis",
+          "Transpiración",
+          "Digestión"
+        ],
+        1,
+        "El oxígeno se libera durante la fotosíntesis."
+      ],
+      [
+        "Una onda recorre 12 metros en 3 segundos.",
+        "¿Cuál es su rapidez media?",
+        [
+          "4 m/s",
+          "9 m/s",
+          "15 m/s",
+          "36 m/s"
+        ],
+        0,
+        "v=d/t=12/3=4 m/s."
+      ],
+      [
+        "Un átomo neutro tiene 11 protones.",
+        "¿Cuántos electrones posee?",
+        [
+          "10",
+          "11",
+          "12",
+          "22"
+        ],
+        1,
+        "En un átomo neutro las cargas positivas y negativas se compensan."
+      ],
+      [
+        "En una red trófica disminuye drásticamente una población de depredadores.",
+        "¿Qué efecto es posible sobre sus presas, manteniendo otros factores constantes?",
+        [
+          "Disminuyen necesariamente",
+          "Aumentan inicialmente",
+          "Desaparecen todas",
+          "No pueden cambiar"
+        ],
+        1,
+        "Una menor presión de depredación puede favorecer el aumento de presas."
+      ],
+      [
+        "Dos cuerpos de distinta masa caen en vacío desde la misma altura y al mismo tiempo.",
+        "¿Qué ocurre si ambos parten del reposo?",
+        [
+          "El más pesado llega antes",
+          "El más liviano llega antes",
+          "Llegan juntos",
+          "Ambos quedan suspendidos"
+        ],
+        2,
+        "En vacío tienen la misma aceleración gravitacional."
+      ],
+      [
+        "Se mezclan 50 mL de agua con un colorante soluble y se obtiene una mezcla uniforme.",
+        "¿Cómo se clasifica la mezcla?",
+        [
+          "Heterogénea",
+          "Homogénea",
+          "Elemento químico",
+          "Sustancia pura"
+        ],
+        1,
+        "El colorante disuelto forma una mezcla uniforme."
+      ],
+      [
+        "Un equipo compara la germinación de semillas con fertilizante y sin fertilizante. Cambia también el tipo de suelo entre grupos.",
+        "¿Qué problema presenta el diseño?",
+        [
+          "No hay variable dependiente",
+          "Hay una variable de confusión",
+          "No existe hipótesis posible",
+          "Se controla el suelo"
+        ],
+        1,
+        "Al cambiar el suelo no puede atribuirse el efecto únicamente al fertilizante."
+      ]
+    ]
+  },
+  "historia": {
+    "title": "Historia y Ciencias Sociales",
+    "items": [
+      [
+        "En una democracia representativa, las autoridades electas ejercen sus cargos por períodos definidos.",
+        "¿Qué principio favorece esta característica?",
+        [
+          "Alternancia en el poder",
+          "Herencia del cargo",
+          "Concentración vitalicia",
+          "Supresión del voto"
+        ],
+        0,
+        "Los mandatos limitados facilitan alternancia y rendición de cuentas."
+      ],
+      [
+        "Una comunidad solicita información pública sobre el gasto municipal.",
+        "¿Qué principio democrático se fortalece?",
+        [
+          "Secreto administrativo",
+          "Transparencia",
+          "Censura",
+          "Inmunidad absoluta"
+        ],
+        1,
+        "El acceso a información facilita control ciudadano."
+      ],
+      [
+        "Durante el siglo XIX, el ferrocarril conectó regiones productoras con puertos.",
+        "¿Qué consecuencia económica es razonable?",
+        [
+          "Reducción de conexiones comerciales",
+          "Facilitación del transporte de mercancías",
+          "Desaparición inmediata de caminos",
+          "Fin de la exportación"
+        ],
+        1,
+        "El ferrocarril facilitó la circulación de bienes hacia mercados."
+      ],
+      [
+        "Un país experimenta inflación sostenida y los salarios nominales permanecen constantes.",
+        "¿Qué sucede con el poder adquisitivo?",
+        [
+          "Aumenta necesariamente",
+          "No cambia",
+          "Disminuye",
+          "Se duplica"
+        ],
+        2,
+        "Con los mismos ingresos nominales se pueden comprar menos bienes."
+      ],
+      [
+        "La Constitución establece límites al ejercicio del poder estatal.",
+        "¿Qué idea expresa?",
+        [
+          "Estado de derecho",
+          "Gobierno sin normas",
+          "Poder ilimitado",
+          "Supresión de tribunales"
+        ],
+        0,
+        "El Estado de derecho exige que las autoridades se sometan a normas."
+      ],
+      [
+        "Una organización vecinal presenta observaciones durante una consulta pública.",
+        "¿Qué forma de participación realiza?",
+        [
+          "Participación ciudadana",
+          "Voto obligatorio",
+          "Acción militar",
+          "Nombramiento judicial"
+        ],
+        0,
+        "Interviene en una instancia de deliberación pública."
+      ],
+      [
+        "El crecimiento de ciudades industriales durante el siglo XIX atrajo población rural.",
+        "¿Qué proceso demográfico representa?",
+        [
+          "Migración campo-ciudad",
+          "Emigración internacional exclusiva",
+          "Disminución urbana",
+          "Aislamiento rural"
+        ],
+        0,
+        "El traslado desde zonas rurales a ciudades corresponde a urbanización."
+      ],
+      [
+        "En un mercado competitivo, aumenta la demanda de un bien y la oferta permanece constante.",
+        "¿Qué presión tiende a generarse sobre el precio?",
+        [
+          "A la baja",
+          "Al alza",
+          "A cero",
+          "Ninguna bajo cualquier condición"
+        ],
+        1,
+        "Mayor demanda con oferta constante tiende a elevar el precio de equilibrio."
+      ],
+      [
+        "Una sociedad discute cómo reconocer los derechos de distintos grupos culturales.",
+        "¿Qué valor democrático está involucrado?",
+        [
+          "Pluralismo",
+          "Uniformidad obligatoria",
+          "Exclusión",
+          "Censura"
+        ],
+        0,
+        "El pluralismo reconoce la coexistencia de diversas perspectivas e identidades."
+      ],
+      [
+        "Un documento histórico fue escrito décadas después de los acontecimientos que narra.",
+        "¿Qué precaución corresponde al analizarlo?",
+        [
+          "Tratarlo como testimonio contemporáneo",
+          "Examinar distancia temporal y fuentes",
+          "Descartarlo sin leer",
+          "Suponer ausencia de sesgos"
+        ],
+        1,
+        "La distancia temporal influye en memoria, interpretación y fuentes utilizadas."
+      ],
+      [
+        "La separación de poderes distingue funciones ejecutivas, legislativas y judiciales.",
+        "¿Cuál es una finalidad central?",
+        [
+          "Evitar concentración del poder",
+          "Eliminar toda coordinación",
+          "Impedir leyes",
+          "Suprimir elecciones"
+        ],
+        0,
+        "Distribuir funciones permite controles recíprocos."
+      ],
+      [
+        "Una empresa enfrenta un alza en el costo de insumos esenciales.",
+        "¿Qué efecto podría producirse, si todo lo demás se mantiene constante?",
+        [
+          "Menor costo de producción",
+          "Mayor costo de producción",
+          "Desaparición de la demanda",
+          "Precio necesariamente cero"
+        ],
+        1,
+        "Los insumos más caros elevan el costo de producir."
+      ],
+      [
+        "Una fuente primaria contiene el diario personal de una persona que vivió un proceso histórico.",
+        "¿Qué característica tiene?",
+        [
+          "Es una fuente producida por un contemporáneo",
+          "Es siempre objetiva",
+          "Es una síntesis posterior",
+          "No requiere contextualización"
+        ],
+        0,
+        "Fue elaborada por alguien que vivió el período, aunque necesita análisis crítico."
+      ],
+      [
+        "En una elección, las personas comparan programas y propuestas antes de votar.",
+        "¿Qué práctica refleja?",
+        [
+          "Participación informada",
+          "Abstención forzada",
+          "Censura previa",
+          "Desconocimiento deliberado"
+        ],
+        0,
+        "Evaluar propuestas favorece decisiones electorales informadas."
+      ],
+      [
+        "Una ciudad tiene viviendas alejadas de centros de empleo y escaso transporte público.",
+        "¿Qué problema urbano puede intensificarse?",
+        [
+          "Menores tiempos de viaje",
+          "Segregación socioespacial",
+          "Eliminación de traslados",
+          "Mayor cercanía universal"
+        ],
+        1,
+        "La desigualdad de acceso a servicios y empleo puede profundizar segregación."
+      ],
+      [
+        "El Estado establece un impuesto para financiar servicios públicos.",
+        "¿Qué función fiscal cumple el impuesto?",
+        [
+          "Recaudar ingresos",
+          "Eliminar toda escasez",
+          "Sustituir el comercio",
+          "Garantizar ganancias privadas"
+        ],
+        0,
+        "Los impuestos son una fuente de financiamiento público."
+      ],
+      [
+        "Una fotografía muestra una protesta, pero no indica fecha ni lugar.",
+        "¿Qué información sería prioritaria para interpretarla históricamente?",
+        [
+          "Contexto temporal y espacial",
+          "Color de su marco",
+          "Tamaño del archivo",
+          "Marca de cámara solamente"
+        ],
+        0,
+        "Fecha y lugar permiten contextualizar el acontecimiento."
+      ],
+      [
+        "Una región depende de una sola actividad exportadora.",
+        "¿Qué vulnerabilidad económica puede enfrentar?",
+        [
+          "Exposición a cambios del precio internacional",
+          "Diversificación garantizada",
+          "Ausencia de riesgos",
+          "Demanda siempre estable"
+        ],
+        0,
+        "La dependencia de un producto expone a fluctuaciones de mercado."
+      ],
+      [
+        "Un medio publica una opinión y otro publica una noticia sobre el mismo hecho.",
+        "¿Qué distinción es importante?",
+        [
+          "Separar juicios valorativos de hechos verificables",
+          "Considerar ambas fuentes idénticas",
+          "Suponer que toda opinión es falsa",
+          "Descartar toda noticia"
+        ],
+        0,
+        "Opiniones y noticias tienen propósitos y criterios de evaluación distintos."
+      ],
+      [
+        "Un tribunal puede revisar si una autoridad respetó los derechos de una persona.",
+        "¿Qué función institucional representa?",
+        [
+          "Control jurisdiccional",
+          "Legislación directa",
+          "Campaña electoral",
+          "Administración tributaria"
+        ],
+        0,
+        "La revisión judicial permite controlar legalidad y proteger derechos."
+      ]
+    ]
+  }
+}

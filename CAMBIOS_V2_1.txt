@@ -1,0 +1,1 @@
+V2.1: aviso de nueva version, instalacion iPhone/Android, cache con control de actualizacion. Bancos sin cambios: M1 200, Lectora 20, Ciencias 20, Historia 20. Historial local sin migracion.

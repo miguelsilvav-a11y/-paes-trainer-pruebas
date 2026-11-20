@@ -1,0 +1,1 @@
+V1.9: Portada con cuatro materias. Matemática M1 200 preguntas (sin cambios); Competencia Lectora 20; Ciencias 20; Historia y Ciencias Sociales 20. Historial M1 preservado, historiales por materia preservados, prioridad de preguntas no vistas en módulos nuevos. Contenido original de desarrollo, sin calibración PAES. Respaldar historial JSON M1 antes de actualizar.

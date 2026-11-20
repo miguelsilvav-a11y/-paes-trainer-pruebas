@@ -1,0 +1,7 @@
+PAES Trainer Chile V1.3
+- Cronómetro grande y destacado con etiqueta de tiempo restante/transcurrido.
+- Número de pregunta grande y separado del cronómetro.
+- Botones Anterior, Siguiente/Finalizar y Salir y guardar más grandes, con objetivos táctiles cómodos en iPhone.
+- Se mantienen las 40 preguntas, modos, tiempos, historial y claves de almacenamiento local.
+- Cache PWA actualizado para servir la nueva versión.
+- Publicar todos los archivos de la carpeta en el mismo sitio de Netlify.

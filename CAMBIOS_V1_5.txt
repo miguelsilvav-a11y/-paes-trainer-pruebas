@@ -1,0 +1,6 @@
+PAES Trainer Chile V1.5
+- Encabezado y cronómetro compactos en sesiones.
+- Botones Anterior/Siguiente fijos al pie de pantalla, con espacio seguro de iPhone.
+- Alternativas más compactas pero táctiles.
+- Desplazamiento al inicio al cambiar de pregunta.
+- Se conservan las 72 preguntas y las claves de historial y sesión activa de V1.4.

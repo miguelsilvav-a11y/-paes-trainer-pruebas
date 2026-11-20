@@ -1,0 +1,1 @@
+V2.4: modalidades práctica/examen y navegación compacta en materias adicionales; M2 piloto 12 preguntas; Lectura avanzada (L2, no oficial) 8 preguntas. Conserva claves de historial. No elimina datos.

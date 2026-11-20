@@ -1,0 +1,2 @@
+V2.5: controles de actualización trasladados fuera del encabezado; versión y service worker sincronizados; 10 preguntas originales adicionales en cada una de Lectora, Ciencias e Historia (30 nuevas); corregido total M1 del tablero de 300 a 200. Mantiene claves de historial. M2 y L2 no aumentan en esta entrega.
+Banco verificado: M1 200, Lectora 40, Ciencias 40, Historia 40; M2 y lectura avanzada mantienen su banco anterior.

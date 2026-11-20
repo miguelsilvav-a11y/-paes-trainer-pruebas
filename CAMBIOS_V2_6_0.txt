@@ -1,0 +1,6 @@
+PAES Trainer Chile v2.6.0 - versión candidata de publicación
+56 preguntas nuevas: M1 +16, Lectora +8, Ciencias +8, Historia +8, M2 +8, L2 +8. Total 468.
+Se preservan las posiciones e identificadores de las preguntas previas, así como las claves del historial.
+Se actualiza caché de service worker, número de versión y referencias de scripts.
+No hay sincronización remota de usuarios. L2 es una práctica avanzada interna, no una prueba oficial.
+Validación estructural y sintáctica automatizada; falta prueba manual de Safari/iPhone antes de publicar.

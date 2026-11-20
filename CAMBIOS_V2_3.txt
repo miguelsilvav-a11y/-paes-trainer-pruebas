@@ -1,0 +1,1 @@
+V2.3: corrección del mecanismo de actualización PWA. Botón visible para buscar versiones; archivos y código network-first; caché offline; versión pública version.json; historial local y respaldos sin cambios. La app instalada y Safari pueden tener almacenamientos separados.

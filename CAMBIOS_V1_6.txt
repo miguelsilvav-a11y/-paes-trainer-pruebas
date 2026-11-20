@@ -1,0 +1,8 @@
+V1.6 — Selección por ciclos y avance del prototipo
+- Se priorizan preguntas no vistas en el ciclo. Cuando se agotan, se abre un nuevo ciclo.
+- Sin duplicados dentro de una misma sesión.
+- Panel de avance: cobertura histórica del banco, preguntas restantes del ciclo, número de ciclo.
+- Historial y sesiones activas usan las mismas claves que V1.5.
+- Restaurar JSON reconstruye el ciclo; borrar historial reinicia el ciclo.
+- 72 preguntas originales existentes; no se agregan preguntas nuevas en esta versión.
+- Nota: 65 de 72 hace inevitable reutilizar preguntas entre ensayos consecutivos.

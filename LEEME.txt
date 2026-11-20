@@ -1,0 +1,6 @@
+PAES Trainer Chile V1.2
+Publicación: subir TODOS los archivos de esta carpeta a la raíz del sitio Netlify existente, no solo manifest.webmanifest.
+Si se carga solo un archivo, la app puede quedar desactualizada.
+Para actualizar caché PWA, cerrar/reabrir Safari; eventualmente recargar.
+La aplicación conserva localStorage de V1.0 y V1.1 bajo el mismo dominio. Antes de actualizar, exporta respaldo JSON.
+La selección 65 preguntas está deshabilitada hasta ampliar el banco de 40 preguntas originales.

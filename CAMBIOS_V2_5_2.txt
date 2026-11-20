@@ -1,0 +1,8 @@
+V2.5.2 | 20-11-2026
+- Corrección de duplicados de actualización y versión interna.
+- Navegación consistente entre las seis materias.
+- M2: +60 ejercicios parametrizados de ecuaciones lineales (variaciones de una misma habilidad, NO 60 tipos distintos).
+- L2: +12 preguntas de análisis crítico y evidencia.
+- Filtro de dificultad aproximado en módulos no M1; NO calibrado oficialmente.
+- Se mantienen las claves de almacenamiento de progreso.
+- El conteo de usuarios requiere analítica externa, no incluida en este ZIP.

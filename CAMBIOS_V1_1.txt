@@ -1,0 +1,9 @@
+PAES Trainer Chile V1.1
+
+NUEVO: diagnóstico por área con botón Practicar para iniciar una sesión enfocada.
+NUEVO: descarga de respaldo JSON del historial y restauración validada.
+NUEVO: mejoras visuales y de accesibilidad.
+
+IMPORTANTE: para actualizar la aplicación existente, sube todos los archivos de esta carpeta a tu sitio Netlify mediante Drop new files. El historial previo se conserva en el mismo dominio/navegador. Antes de actualizar, exporta el historial desde la versión nueva cuando esté disponible.
+
+No se añadieron preguntas oficiales ni puntajes PAES oficiales. El banco permanece en 40 preguntas originales.

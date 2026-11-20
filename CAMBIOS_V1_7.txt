@@ -1,0 +1,7 @@
+PAES Trainer Chile V1.7
+- Banco ampliado de 72 a 96 preguntas originales M1 (24 nuevas).
+- Progreso por área según preguntas únicas respondidas y total del banco.
+- Panel de avance del prototipo (etapas completadas y pendientes).
+- Mantiene historial, respaldo, selección con prioridad a no vistas, cronómetro y navegación compacta.
+- Preguntas originales de práctica; NO equivalen a preguntas oficiales ni tienen dificultad calibrada por DEMRE.
+- Guardar respaldo JSON antes de instalar.

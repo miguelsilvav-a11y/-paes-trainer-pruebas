@@ -1,0 +1,6 @@
+PAES Trainer Chile V1.4
+- 32 preguntas originales nuevas, total 72.
+- Ensayos de 65 preguntas habilitados con 140 minutos.
+- Conserva sesiones cortas, historial, respaldo y cronómetro grande.
+- Banco preliminar: requiere revisión por docentes y calibración empírica antes de afirmar equivalencia con dificultad PAES oficial.
+- Actualizar todos los archivos del sitio, no solo el manifiesto.
